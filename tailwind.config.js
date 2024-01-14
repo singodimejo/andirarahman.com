@@ -56,8 +56,8 @@ const config = {
 			},
 			fontFamily: {
 				sans: [...fontFamily.sans],
-				heading: 'Josefin Sans',
-				body: 'Montserrat'
+				heading: ['Josefin Sans', ...fontFamily.sans],
+				body: ['Montserrat', ...fontFamily.sans]
 			},
 			fontSize: {
 				sm: '0.750rem',
