@@ -11,7 +11,7 @@
     <a href="/projects" class="ml-4 hover:underline italic font-light">back to projects</a>
     <header class="col-start-2 col-end-4">
         <h1 class="text-3xl text-center text-accent font-bold font-heading">
-            Internal Safety Report Web Portal
+            Online Safety Report Portal
         </h1>
         <h2 class="mt-4 text-2xl text-center text-primary font-bold font-heading">
             PT. Pertamina Patra Niaga
