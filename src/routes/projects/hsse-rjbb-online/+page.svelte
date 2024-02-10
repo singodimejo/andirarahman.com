@@ -20,7 +20,7 @@
 </div>
 
 
-<div class="px-16 py-4">
+<div class="px-32 py-4">
     <Carousel.Root class='w-full'>
         <Carousel.Content>
             <Carousel.Item>
