@@ -18,7 +18,7 @@
         ...practicing the Islamic religion casually and peacefully.
         ...stubbornly refusing to pursue a career inline with my Mechanical Engineering Bachelor's Degree from <a href="https://its.ac.id/tmesin" target="_blank" rel="noopener noreferrer">ITS</a>.
         ...currently an <strong><em>IT System Officer</em></strong> for <a href="https://pertamc.com" target="_blank" rel="noopener noreferrer">PT. Pertamina Maintenance and Construction</a>.
-        ...a struggling yet enthusiastic <strong><em>freelance web developer</em></strong>. if you have a project or a question in mind, <a href="mailto:andira.a2n@gmail.com">come say hi!</a>
+        ...a enthusiastic <strong><em>freelance web developer</em></strong>. if you have a project or a question in mind, <a href="mailto:andira.a2n@gmail.com">come say hi!</a>
     </p>
 </article>
 

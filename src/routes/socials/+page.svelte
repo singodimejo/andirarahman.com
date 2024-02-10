@@ -15,8 +15,8 @@
     <a target="_blank" href="https://linkedin.com/in/andira-rahman-imani">linkedin</a>
     <a target="_blank" href="https://twitter.com/andirarahman">twitter</a>
     <a target="_blank" href="https://instagram.com/andirarahman">instagram</a>
-    <a target="_blank" href="https://tiktok.com/@andirarahman">tiktok</a>
-    <a target="_blank" href="https://facebook.com/andira.rahmanimani">facebook</a>
+    <!-- <a target="_blank" href="https://tiktok.com/@andirarahman">tiktok</a>
+    <a target="_blank" href="https://facebook.com/andira.rahmanimani">facebook</a> -->
 </main>
 
 <style lang="postcss">
